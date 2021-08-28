@@ -1,0 +1,27 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Unit Testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmen95/unit-testing.git"
+  },
+  "keywords": [
+    "Unit",
+    "testing",
+    "Jest"
+  ],
+  "author": "Jesus Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmen95/unit-testing/issues"
+  },
+  "homepage": "https://github.com/jmen95/unit-testing#readme",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}

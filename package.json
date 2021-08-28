@@ -21,7 +21,8 @@
     "url": "https://github.com/jmen95/unit-testing/issues"
   },
   "homepage": "https://github.com/jmen95/unit-testing#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^27.1.0"
   }
 }
